@@ -1,4 +1,4 @@
-import Phrase from "./phrase"
+import Phrase from "./Phrase.jsx"
 function Card ({phrase,onChange}){
     return(
         <div className="card">
